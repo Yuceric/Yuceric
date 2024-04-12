@@ -10,3 +10,7 @@
 | 工作經驗         | 薪菖車業技師                     |
 | 專業技能         | 機械腳踏車丙級                |
 | 興趣            | 籃球                         | 
+##公司比賽影片
+<a href="https://www.youtube.com/watch?v=SKZUu7p9Z8I" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
+
